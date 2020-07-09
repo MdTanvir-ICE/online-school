@@ -92,7 +92,9 @@ height: 85px;
 font-size: 24px;
 line-height: 36px;
 }
-
+.card{
+    min-width: 30%;
+}
 /* .online-courses .card-in img
 {
     width: 331px;
@@ -118,6 +120,10 @@ line-height: 36px;
     color: #413960;
     font-size: 36px;
     font-weight: 900;
+}
+.card
+{
+    min-width: 30%;
 }
 .card-footer
 {
